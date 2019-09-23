@@ -1,0 +1,11 @@
+Here is a quick scenario for you to code.  You can provide the team the code in a github repo or they can review it with you on Monday, whatever you prefer!
+
+Scenario:
+
+A client has decided that they want to display the most recent Articles from dev.acquia.com in a block on their current website.  What are some of the different ways in which that content can be displayed in the site in a block which links back to dev.acquia.com?  You can periodically import this data, or pull it in with Javascript client side, any approach you want to take, it just has to be rendered in a block that can be placed anywhere.  For testing you can use this RSS Feed (https://dev.acquia.com/rss.xml).  Code a basic module which provides the block, and then renders a list of articles from dev.acquia.com.
+
+If you have any questions please do not hesitate to contact Matt Wetmore (matt.wetmore@acquia.com).
+He is more than happy to walk through any question you may have.
+
+Talk to you soon!
+Noelle
